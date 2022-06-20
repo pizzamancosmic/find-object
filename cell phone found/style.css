@@ -1,0 +1,23 @@
+.heading {
+    width: 100%;
+    background-color: rgb(11, 124, 158);
+}
+.heading h3 {
+    display: inline;
+}
+#start {
+    background-color: rgb(4, 177, 4);
+    border: 5px;
+}
+body {
+    background-image: fill;
+}
+.color {
+    color: rgb(12, 245, 90);
+}
+#status {
+    background-color: red;
+}
+#status_answer {
+    background-color: rgb(235, 220, 15);
+}
